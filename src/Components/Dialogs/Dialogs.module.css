@@ -1,0 +1,16 @@
+.nav {
+    grid-area: n;
+    background-color: #0E1621;
+    border-bottom-left-radius: 10px;
+}
+.item {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    coursor: pointer;
+}
+.itemActive {
+    background-color: #2B5278;
+    color: gold;
+    cursor: pointer;
+}
